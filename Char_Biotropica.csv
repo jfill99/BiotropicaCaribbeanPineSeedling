@@ -1,0 +1,405 @@
+﻿Plot,Char_height,Environment
+1,2,Open
+1,2.5,Open
+1,3,Open
+1,1.5,Open
+1,2.5,Open
+1,2,Open
+1,1,Open
+1,2,Open
+1,1,Open
+1,0.5,Open
+1,0.5,Open
+1,0.5,Open
+2,0,Shrubby
+2,1.5,Shrubby
+2,2,Shrubby
+2,2,Shrubby
+2,1,Shrubby
+2,1,Shrubby
+2,1,Shrubby
+2,1,Shrubby
+2,1,Shrubby
+2,0.5,Shrubby
+2,1,Shrubby
+2,0.5,Shrubby
+2,0,Shrubby
+2,2.5,Shrubby
+3,0,Shrubby
+3,1,Shrubby
+3,0.5,Shrubby
+3,0.5,Shrubby
+3,0.5,Shrubby
+3,0.5,Shrubby
+3,2.5,Shrubby
+3,0,Shrubby
+3,0.5,Shrubby
+3,0.5,Shrubby
+4,0,Shrubby
+4,0,Shrubby
+4,0.5,Shrubby
+4,0.5,Shrubby
+4,0,Shrubby
+4,2,Shrubby
+4,0.5,Shrubby
+4,0.5,Shrubby
+4,0.9,Shrubby
+4,0.5,Shrubby
+4,0.5,Shrubby
+4,0.5,Shrubby
+4,0.5,Shrubby
+4,0,Shrubby
+4,1,Shrubby
+4,2,Shrubby
+4,3,Shrubby
+4,,Shrubby
+4,,Shrubby
+4,,Shrubby
+4,,Shrubby
+4,,Shrubby
+4,,Shrubby
+4,,Shrubby
+4,,Shrubby
+4,,Shrubby
+4,,Shrubby
+4,,Shrubby
+5,1,Shrubby
+5,2,Shrubby
+5,0,Shrubby
+5,0,Shrubby
+5,0.5,Shrubby
+6,2.5,Open
+6,1,Open
+6,1,Open
+7,0.5,Open
+7,1,Open
+7,0.5,Open
+7,1,Open
+7,0.5,Open
+7,0.5,Open
+7,0,Open
+7,0.5,Open
+7,1,Open
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+9,1,Open
+9,1,Open
+9,1,Open
+9,1,Open
+9,0.5,Open
+9,0.5,Open
+9,0.5,Open
+9,1,Open
+9,0.5,Open
+9,1,Open
+9,1,Open
+9,1,Open
+9,0.5,Open
+9,1,Open
+9,1,Open
+9,0.5,Open
+9,0.5,Open
+9,0.5,Open
+9,1,Open
+9,1,Open
+11,1,Shrubby
+11,2,Shrubby
+11,1.5,Shrubby
+11,1.5,Shrubby
+11,1.5,Shrubby
+11,0,Shrubby
+11,3,Shrubby
+11,2.5,Shrubby
+11,2.5,Shrubby
+11,3.5,Shrubby
+11,3,Shrubby
+11,2.5,Shrubby
+11,3,Shrubby
+11,2.5,Shrubby
+11,1.5,Shrubby
+11,0,Shrubby
+11,1.5,Shrubby
+11,2,Shrubby
+11,1,Shrubby
+12,2,Densely wooded
+12,4,Densely wooded
+12,3,Densely wooded
+12,2.5,Densely wooded
+12,2.5,Densely wooded
+12,2,Densely wooded
+12,2.5,Densely wooded
+12,1,Densely wooded
+12,6,Densely wooded
+12,5,Densely wooded
+12,2,Densely wooded
+12,0.5,Densely wooded
+12,5,Densely wooded
+12,6,Densely wooded
+12,6,Densely wooded
+12,6,Densely wooded
+12,2.5,Densely wooded
+12,4,Densely wooded
+12,2,Densely wooded
+12,4,Densely wooded
+12,6,Densely wooded
+12,1.5,Densely wooded
+12,3,Densely wooded
+12,1.5,Densely wooded
+12,5,Densely wooded
+12,2.5,Densely wooded
+12,4,Densely wooded
+12,5,Densely wooded
+12,1,Densely wooded
+12,2,Densely wooded
+12,2.5,Densely wooded
+12,2,Densely wooded
+12,0.5,Densely wooded
+12,5,Densely wooded
+12,5,Densely wooded
+12,5,Densely wooded
+12,5,Densely wooded
+12,5,Densely wooded
+12,3,Densely wooded
+12,2.5,Densely wooded
+12,2.5,Densely wooded
+12,2,Densely wooded
+12,5,Densely wooded
+12,2,Densely wooded
+12,1.5,Densely wooded
+12,2,Densely wooded
+12,2,Densely wooded
+12,1.5,Densely wooded
+12,1.5,Densely wooded
+12,3,Densely wooded
+12,2,Densely wooded
+12,3,Densely wooded
+12,2.5,Densely wooded
+12,4,Densely wooded
+12,2,Densely wooded
+13,4,Densely wooded
+13,3.2,Densely wooded
+13,0.5,Densely wooded
+13,2.5,Densely wooded
+13,2.2,Densely wooded
+13,0.7,Densely wooded
+13,1.7,Densely wooded
+13,3,Densely wooded
+13,3,Densely wooded
+13,3,Densely wooded
+13,2,Densely wooded
+13,3.5,Densely wooded
+13,2,Densely wooded
+13,2,Densely wooded
+13,2.5,Densely wooded
+13,2,Densely wooded
+14,0.5,Open
+14,0.3,Open
+14,0.5,Open
+14,1.5,Open
+14,1,Open
+14,0.3,Open
+14,0.5,Open
+14,1,Open
+14,0.3,Open
+14,1,Open
+14,0.5,Open
+14,1.5,Open
+14,1,Open
+14,0.3,Open
+14,0.3,Open
+14,0.5,Open
+14,0.5,Open
+14,0.3,Open
+14,0.3,Open
+14,0.5,Open
+14,0.5,Open
+14,0.5,Open
+14,0.5,Open
+14,0.2,Open
+14,1,Open
+14,0.5,Open
+14,0.5,Open
+14,0.5,Open
+14,0.5,Open
+14,0.5,Open
+14,0.5,Open
+14,0.5,Open
+14,0.5,Open
+1,1,Open
+1,3.5,Open
+1,3.5,Open
+1,1.5,Open
+1,1.95,Open
+1,2.17,Open
+1,1.08,Open
+1,1.72,Open
+1,0.97,Open
+1,0.92,Open
+1,0.92,Open
+5,1.8,Shrubby
+5,2,Shrubby
+5,1.7,Shrubby
+5,2.4,Shrubby
+5,0,Shrubby
+6,2.2,Open
+6,0.7,Open
+6,1,Open
+7,0.85,Open
+7,0.5,Open
+7,1.5,Open
+7,0.5,Open
+7,0.85,Open
+7,1.1,Open
+7,1.3,Open
+7,0.5,Open
+7,1,Open
+7,0.5,Open
+7,1,Open
+7,0.5,Open
+7,0.5,Open
+7,0.5,Open
+7,0.5,Open
+7,1.2,Open
+7,1,Open
+7,0.8,Open
+7,0.8,Open
+7,0.5,Open
+7,0.5,Open
+7,0.5,Open
+7,0.5,Open
+7,0.6,Open
+7,1,Open
+7,1,Open
+7,0.6,Open
+7,0.2,Open
+7,0.7,Open
+7,0.5,Open
+7,1,Open
+7,0.3,Open
+8,1,Shrubby
+8,1,Shrubby
+8,0.8,Shrubby
+8,1.2,Shrubby
+8,1,Shrubby
+8,1,Shrubby
+8,1.3,Shrubby
+8,0.5,Shrubby
+8,1,Shrubby
+8,0.5,Shrubby
+8,1,Shrubby
+8,0.5,Shrubby
+8,0.4,Shrubby
+8,0.3,Shrubby
+8,1.3,Shrubby
+8,1.4,Shrubby
+8,0.4,Shrubby
+13,0.5,Densely wooded
+13,2,Densely wooded
+13,1,Densely wooded
+13,1.3,Densely wooded
+13,1.5,Densely wooded
+13,1.3,Densely wooded
+13,1,Densely wooded
+13,2,Densely wooded
+13,2,Densely wooded
+13,2,Densely wooded
+13,1.5,Densely wooded
+13,2,Densely wooded
+13,1.5,Densely wooded
+13,2,Densely wooded
+13,1.5,Densely wooded
+13,2,Densely wooded
+2,1.3,Shrubby
+2,1.1,Shrubby
+2,1.4,Shrubby
+2,1.4,Shrubby
+2,0.9,Shrubby
+2,1,Shrubby
+2,1,Shrubby
+2,1.15,Shrubby
+2,0.7,Shrubby
+2,1.5,Shrubby
+2,1.5,Shrubby
+2,0.45,Shrubby
+2,0,Shrubby
+2,2.1,Shrubby
+3,0,Shrubby
+3,0.63,Shrubby
+3,1.1,Shrubby
+3,0.8,Shrubby
+3,0,Shrubby
+3,0,Shrubby
+3,0,Shrubby
+3,0,Shrubby
+3,0.6,Shrubby
+3,0.3,Shrubby
+9,0.5,Open
+9,0.5,Open
+9,0.5,Open
+9,0.5,Open
+9,0.6,Open
+9,0.5,Open
+9,0.5,Open
+9,0.5,Open
+9,0.5,Open
+9,0.45,Open
+9,0.5,Open
+9,0.5,Open
+9,0.7,Open
+9,0.7,Open
+9,0.75,Open
+9,1,Open
+9,0.7,Open
+9,0.5,Open
+9,0.5,Open
+9,0.5,Open
+9,0.5,Open
+9,0.5,Open
+14,1.4,Open
+14,0.7,Open
+14,1.17,Open
+14,1.72,Open
+14,1.55,Open
+14,0.7,Open
+14,1.23,Open
+14,1.22,Open
+14,0.5,Open
+14,1.17,Open
+14,1.9,Open
+14,1.75,Open
+14,1.65,Open
+14,0.65,Open
+14,0.75,Open
+14,0.7,Open
+14,0.8,Open
+14,0.8,Open
+14,0.8,Open
+14,1.2,Open
+14,0.9,Open
+14,0.5,Open
+14,0.36,Open
+14,0.5,Open
+14,0.85,Open
+14,0.3,Open
+14,0.9,Open
+14,0.87,Open
+14,1.31,Open
+14,0.62,Open
+14,1.28,Open
+14,1.7,Open
+14,0.95,Open
